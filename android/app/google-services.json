@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443539865348",
+    "project_id": "user-authentication-ef145",
+    "storage_bucket": "user-authentication-ef145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443539865348:android:33d4b24739632c39289a51",
+        "android_client_info": {
+          "package_name": "com.example.mmy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1xl5imEb4_d1P5Nfu7oKultSnIUpsdlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
