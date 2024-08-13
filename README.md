@@ -1,4 +1,4 @@
-# mmy_app
+# Social Media App
 
 A new Flutter project.
 
